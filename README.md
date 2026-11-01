@@ -40,10 +40,8 @@ Examines community-level energy delivery through:
 ### 3. Grievances & E&S Monitoring
 Provides indicators for:
 - Open grievances.
-- Overdue grievances.
 - On-time grievance resolution rate.
 - Completed E&S actions.
-- Overdue E&S actions.
 
 ## Data and Methodology
 
